@@ -1,4 +1,5 @@
+import helper
+
 print 'hello'
 
-def message(msg):
-	print msg 
+helper.message("second hello") 
